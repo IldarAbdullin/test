@@ -22,3 +22,4 @@
                 }
             }
         }
+	WriteLine("Pizdec Tak zhit' be SOLID");
