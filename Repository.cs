@@ -2,6 +2,7 @@ using ExempGen.CatalogObj;
 using Library.CatalogObj;
 using System;
 using System.Collections.Generic;
+using System.Collections.Generic2;
 
 namespace ExempGen.Repository
 {
