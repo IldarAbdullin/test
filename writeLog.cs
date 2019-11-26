@@ -22,4 +22,7 @@
                 }
             }
         }
+
 	WriteLine("Pizdec Tak zhit' be SOLID");
+		//ха-ха биба
+
