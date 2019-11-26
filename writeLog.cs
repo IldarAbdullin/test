@@ -25,4 +25,5 @@
 
 	WriteLine("Pizdec Tak zhit' be SOLID");
 		//ха-ха биба
+        //010101001010001010010
 
